@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208846683651",
+    "project_id": "livetracking-dc36f",
+    "storage_bucket": "livetracking-dc36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208846683651:android:8213fed70743f4f8319836",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ulx00eTfS3eWWDYQghvV9UTCweezras"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

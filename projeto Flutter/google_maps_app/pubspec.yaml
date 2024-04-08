@@ -1,0 +1,67 @@
+name: google_map_app
+description: A new Flutter project.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  image_picker: ^0.8.5+3
+  sqflite: any
+  sensors: 2.0.3
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.3.0
+  location: ^5.0.3
+  flutter_polyline_points: ^1.0.0
+  http: ^0.13.5
+  geolocator: ^7.0.3
+  path: ^1.8.3
+  provider: ^6.1.2
+  cached_network_image: ^3.3.1
+  dio: ^5.4.2+1
+  path_provider: ^2.1.2
+  gallery_saver: ^2.0.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter: 
+  uses-material-design: true
+  assets: 
+    - lib/files/photo1.jpg
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
